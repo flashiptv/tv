@@ -144,16 +144,22 @@
     </item>
 	    
     <item>
-	<title>NAT GEO</title>
-	<link>http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=72&extension=ts&hash=b2980134365d7d2bc2e86ec65f38b5f5&time=1479203110&pid=30712&external_device=&on_demand=0&isp=&bitrate=1266</link>
-    <thumbnail>http://cdn.foliomag.com/wp-content/uploads/2015/11/ng_logo_tm_whitebackground_cmyk.jpg</thumbnail>
-    </item>
-    
-    <item>
 	<title>HIT MUSIC</title>
 	<link>http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8</link>
     <thumbnail>http://www.thehitmusiccompany.com/HOT-LOGO-2.gif</thumbnail>
     </item>
+	    
+    <item>
+	<title>NAT GEO</title>
+	<link>http://r1.us.hgfdsaytrewq.xyz:25461//streaming/clients_live.php?username=I02CzDS14C&password=EHdAiyOOS0&stream=72&extension=ts&hash=b2980134365d7d2bc2e86ec65f38b5f5&time=1479203110&pid=30712&external_device=&on_demand=0&isp=&bitrate=1266</link>
+    <thumbnail>http://cdn.foliomag.com/wp-content/uploads/2015/11/ng_logo_tm_whitebackground_cmyk.jpg</thumbnail>
+    </item>
+	    
+    
+    
+    
+	    
+    
     
     
     
